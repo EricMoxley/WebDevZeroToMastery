@@ -1,0 +1,36 @@
+body {
+    background-image: url('images/unsplash2.jpg');
+    background-size: cover;
+}
+
+h2, p {
+    color: red;
+    text-align: center;
+    border: 5px solid black;
+    cursor: pointer;
+}
+
+p {
+    color: blue;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    border: 5px dashed green;
+}
+
+.active {
+    color: red;
+}
+
+#div1 {
+    background: gray;
+}
+
+#div2 {
+    background: rgba(255, 0, 0, 0.2);
+}
