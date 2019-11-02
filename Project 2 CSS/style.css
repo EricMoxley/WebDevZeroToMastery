@@ -11,6 +11,11 @@ h2, p {
 }
 
 p {
+    line-height: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 120%;
+    font-family: 'McLaren', cursive, Georgia, 'Times New Roman', Times, serif;
     color: blue;
 }
 
@@ -33,4 +38,12 @@ li {
 
 #div2 {
     background: rgba(255, 0, 0, 0.2);
+}
+
+img {
+    float: right;
+}
+
+footer {
+    clear: both;
 }
