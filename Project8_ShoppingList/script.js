@@ -24,7 +24,7 @@ function addListAfterKeypress(event){
         createListElement();
     };
 };
-//^functions created for create list to add to child, add to list after a click, add to list after keypress code 13 (enter)
+//^4 functions created for create list to add to child, add to list after a click, add to list after keypress code 13 (enter)
 
 button.addEventListener("click", addListAfterClick);
 input.addEventListener("keypress", addListAfterKeypress);
