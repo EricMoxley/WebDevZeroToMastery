@@ -30,7 +30,7 @@ var newsFeed = [
 
 
 function isUserValid(username, password) {
-    for (const i=0; i < database.length; i++) {
+    for (var i=0; i < database.length; i++) {
         if (database[i].username === username &&
             database[i].password === password) {
                 return true;
@@ -38,6 +38,7 @@ function isUserValid(username, password) {
     }
     return false;
 }
+// ^^Loop for checking isUserValid in var database. if returns true if ===. If not, it returns false. Check below.
 
 function signIn(username, password) {
     if (isUserValid(username, password)) {
@@ -46,6 +47,7 @@ function signIn(username, password) {
         alert("Sorry, wrong username and password!");
     }
 }
+// ^^Function does if valid, give console.log newsfeed, if not, give alert "sorry."
 
 var userNamePrompt = prompt("What's your username?");
 var passwordPrompt = prompt("What's your password?");
