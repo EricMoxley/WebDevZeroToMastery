@@ -30,3 +30,6 @@ callback() //gets called
 
 //3.Event Loop
 //checks nonstop all the time to see if call stack is empty.
+
+//Javascript = Asynchronous - like a text message, can leave message and callback can happen after when it's ready
+//Synchronous = like calling someone and waiting for response. Not being able to do anything else while waiting.
