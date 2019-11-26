@@ -1,4 +1,4 @@
-//arrays examples 1
+//arrays examples
 
 var list = ["tiger", "cat", "bear", "bird"];
 console.log(list[0]);
@@ -18,5 +18,3 @@ list.concat(["bee", "deer"]);
 //^adds bee and deer to end of list
 list.sort();
 //^sorted list by alphabetical order (sorts original list until new adds are assigned to a var)
-
-changes
