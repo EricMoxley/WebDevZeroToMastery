@@ -3,11 +3,8 @@
 This is the start of Zero to Mastery on Udemy by Andrei Neagoie.
 
 ```
-- Project files are my code alongs.
+- Project files are my code alongs from course.
 
-- webpages are templates I use to learn and experiment with.
+- JS files are for random basic JS.
 
-- portfolio is what I've used to create personal page/portfolio using ZTM template.
-
-- Progress is where I can jot down and share some thoughts, ideas, notes and progression.
 ```
