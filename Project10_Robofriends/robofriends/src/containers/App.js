@@ -35,14 +35,6 @@ class App extends Component {
     ) : (
       <div className="tc">
         <h1 className="f1 lh-title lh-solid">RoboFriends</h1>
-        <p>
-          <a
-            class="cta-btn cta-btn--resume"
-            href="https://www.erikmoxley.me/#!"
-          >
-            By Erik Moxley
-          </a>
-        </p>
         <SearchBox searchChange={this.onSearchChange} />
         <Scroll>
           <ErrorBoundry>
