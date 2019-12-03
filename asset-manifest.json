@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/main.920246a1.chunk.css",
+    "main.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/main.b059d325.chunk.js",
+    "main.js.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/main.b059d325.chunk.js.map",
+    "runtime-main.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/runtime-main.7bb94b72.js",
+    "runtime-main.js.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/runtime-main.7bb94b72.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7136d570.chunk.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/2.7136d570.chunk.js",
+    "static/js/2.7136d570.chunk.js.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/2.7136d570.chunk.js.map",
+    "index.html": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/index.html",
+    "precache-manifest.7d04cf2bccc7a105ec35d3bc6c69186f.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/precache-manifest.7d04cf2bccc7a105ec35d3bc6c69186f.js",
+    "service-worker.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.920246a1.chunk.css.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/main.920246a1.chunk.css.map",
+    "static/media/App.css": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/media/Sketch_Block.e924db9e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bb94b72.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7136d570.chunk.js",
+    "static/css/main.920246a1.chunk.css",
+    "static/js/main.b059d325.chunk.js"
+  ]
+}
