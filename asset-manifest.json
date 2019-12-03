@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/main.920246a1.chunk.css",
-    "main.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/main.b059d325.chunk.js",
-    "main.js.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/main.b059d325.chunk.js.map",
-    "runtime-main.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/runtime-main.7bb94b72.js",
-    "runtime-main.js.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/runtime-main.7bb94b72.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.7136d570.chunk.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/2.7136d570.chunk.js",
-    "static/js/2.7136d570.chunk.js.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/js/2.7136d570.chunk.js.map",
-    "index.html": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/index.html",
-    "precache-manifest.7d04cf2bccc7a105ec35d3bc6c69186f.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/precache-manifest.7d04cf2bccc7a105ec35d3bc6c69186f.js",
-    "service-worker.js": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.920246a1.chunk.css.map": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/css/main.920246a1.chunk.css.map",
-    "static/media/App.css": "/WebDevZeroToMastery/Project10_Robofriends/robofriends/static/media/Sketch_Block.e924db9e.woff"
+    "main.css": "/WebDevZeroToMastery/static/css/main.d336c3ce.chunk.css",
+    "main.js": "/WebDevZeroToMastery/static/js/main.fa0e8494.chunk.js",
+    "main.js.map": "/WebDevZeroToMastery/static/js/main.fa0e8494.chunk.js.map",
+    "runtime-main.js": "/WebDevZeroToMastery/static/js/runtime-main.eded7620.js",
+    "runtime-main.js.map": "/WebDevZeroToMastery/static/js/runtime-main.eded7620.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/WebDevZeroToMastery/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.7136d570.chunk.js": "/WebDevZeroToMastery/static/js/2.7136d570.chunk.js",
+    "static/js/2.7136d570.chunk.js.map": "/WebDevZeroToMastery/static/js/2.7136d570.chunk.js.map",
+    "index.html": "/WebDevZeroToMastery/index.html",
+    "precache-manifest.6a1a2f0c0d94cd813af89c808a379116.js": "/WebDevZeroToMastery/precache-manifest.6a1a2f0c0d94cd813af89c808a379116.js",
+    "service-worker.js": "/WebDevZeroToMastery/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/WebDevZeroToMastery/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.d336c3ce.chunk.css.map": "/WebDevZeroToMastery/static/css/main.d336c3ce.chunk.css.map",
+    "static/media/App.css": "/WebDevZeroToMastery/static/media/Sketch_Block.e924db9e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7bb94b72.js",
+    "static/js/runtime-main.eded7620.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.7136d570.chunk.js",
-    "static/css/main.920246a1.chunk.css",
-    "static/js/main.b059d325.chunk.js"
+    "static/css/main.d336c3ce.chunk.css",
+    "static/js/main.fa0e8494.chunk.js"
   ]
 }
